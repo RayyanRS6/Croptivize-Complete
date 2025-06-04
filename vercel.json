@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      // Configuration for your frontend (assuming a Vite project)
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "outputDirectory": "dist" // Vite typically builds to a 'dist' folder
+      }
+    },
+    {
+      // Configuration for your Python backend microservice
+      "src": "api/app.py", // Points to your main Python application file within the 'api' folder
+      "use": "@vercel/python",
+      "config": {
+        // Specify the Python runtime version. Choose a version supported by Vercel.
+        // Common choices: "python3.9", "python3.10", "python3.11"
+        // Using "python3.9" here as a common stable choice.
+        "runtime": "python3.9"
+      }
+    }
+  ],
+  "routes": [
+    {
+      // Route all requests starting with "/api/" to your Python backend
+      // For example, a request to /api/predict will go to your app.py
+      "src": "/api/(.*)",
+      "dest": "api/app.py" // This will route all /api/* requests to your app.py
+    },
+    {
+      // Route all other requests (not starting with /api/) to your frontend
+      // This ensures your single-page application (SPA) routes work correctly
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}
