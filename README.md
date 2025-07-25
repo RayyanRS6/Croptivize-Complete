@@ -1,4 +1,4 @@
-# Croptivize - AI-Powered Agricultural Assistant
+# Croptivize - Crop Disease Detection System
 
 ![Croptivize Banner](Frontend/public/hangplant.png)
 
