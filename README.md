@@ -149,6 +149,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Rayyan Sheikh - [mrayyansalman69@gmail.com](mailto:mrayyansalman69@gmail.com)
+Muhammad Rayyan Bin Salman - [mrayyansalman69@gmail.com](mailto:mrayyansalman69@gmail.com)
 
 Project Link: [https://github.com/RayyanRS6/Croptivize-Complete](https://github.com/RayyanRS6/Croptivize-Complete)
