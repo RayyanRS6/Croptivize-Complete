@@ -4,7 +4,7 @@
 
 **Croptivize** is a comprehensive, full-stack web application designed to assist farmers and agriculture enthusiasts. It leverages AI to detect plant diseases, provides a marketplace for agricultural products, and includes a fertilizer calculator to help optimize crop yields.
 
-**Live Demo:** [Link to your deployed application]
+**Live Demo:** https://croptivize-alpha.vercel.app/
 
 ---
 
@@ -149,6 +149,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Rayyan Sheikh - [rayyansheikh.rs@gmail.com](mailto:rayyansheikh.rs@gmail.com)
+Rayyan Sheikh - [mrayyansalman69@gmail.com](mailto:mrayyansalman69@gmail.com)
 
 Project Link: [https://github.com/RayyanRS6/Croptivize-Complete](https://github.com/RayyanRS6/Croptivize-Complete)
