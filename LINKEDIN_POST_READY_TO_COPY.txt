@@ -1,0 +1,37 @@
+Final Year Project Completed – Croptivize
+
+Inspired by modern agricultural technology and precision farming solutions. I'm thrilled to share my Final Year Project Croptivize, an AI-powered Agricultural Technology Platform designed to empower farmers by simplifying disease detection, fertilizer management, and agricultural product access through intelligent automation and data-driven insights.
+
+Key Features:
+
+ • AI-powered disease detection using deep learning (ResNet9) for cotton plant diseases
+
+ • Precision fertilizer calculator with NPK recommendations for 10+ crop types
+
+ • E-commerce marketplace for agricultural products (fertilizers, tools, seeds, pesticides)
+
+ • Comprehensive farming guides with real-time weather integration
+
+ • Role-based access (User, Admin) for secure workflows
+
+ • Admin dashboard for product management, order tracking, and analytics
+
+Tech Stack:
+
+ • Frontend: React 19, Vite, Tailwind CSS, Redux Toolkit
+
+ • Backend: Node.js, Express.js
+
+ • Database: MongoDB
+
+ • ML Service: Flask, PyTorch (ResNet9)
+
+ • Deployment: Vercel
+
+A huge thanks to my supervisor for their invaluable guidance and support throughout this journey.
+
+🔗 GitHub Repo (Frontend): [Add your GitHub link here]
+🔗 GitHub Repo (Backend): [Add your GitHub link here]
+
+hashtag#FYP hashtag#Croptivize hashtag#FrontendDevelopment hashtag#ReactJS hashtag#TailwindCSS hashtag#AgTech hashtag#NodeJS hashtag#MongoDB hashtag#Vercel hashtag#SoftwareEngineering hashtag#AI hashtag#MachineLearning hashtag#PyTorch hashtag#DeepLearning hashtag#Agriculture hashtag#FullStackDevelopment
+
