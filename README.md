@@ -4,7 +4,7 @@
 
 **Croptivize** is a comprehensive, full-stack web application designed to assist farmers and agriculture enthusiasts. It leverages AI to detect plant diseases, provides a marketplace for agricultural products, and includes a fertilizer calculator to help optimize crop yields.
 
-**Live Demo:** https://croptivize-alpha.vercel.app/
+**Live Demo:** https://growcroptivize.vercel.app/
 
 ---
 
